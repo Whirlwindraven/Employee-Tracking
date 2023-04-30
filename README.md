@@ -13,7 +13,7 @@
 ## Description
 A Node.js application that allows you to track, add, and edit employee data as well as management roles within your organization. By simply following the prompts you should be able to modulate the database to fit your needs. 
 ## Video-demo
-Video demo can be accessed [here](https://youtu.be/v6CWUtHllvo)
+Video demo can be accessed [here](https://youtu.be/msogcfnhVTA)
 
 ## Usage
 Free use to make any basic logo.
