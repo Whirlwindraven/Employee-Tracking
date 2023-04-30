@@ -16,7 +16,7 @@ A Node.js application that allows you to track, add, and edit employee data as w
 Video demo can be accessed [here](https://youtu.be/msogcfnhVTA)
 
 ## Usage
-Free use to make any basic logo.
+Free use to for any organization.
 
 ## Installation
 Through github and run through node.
